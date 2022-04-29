@@ -14,7 +14,7 @@
 # Datasets and Software Simulation Codes
 Two datasets are used for training a neural network model which produce proper output for obstacle avoidance and steering task based on raw gray scale image inputs from drone camera. First [Dronet: Learning to fly by drivin](https://rpg.ifi.uzh.ch/dronet.html) dataset, which is collection of nearly 32K images which are annotated with collision/no-collision labels. We used this dataset to train a model which learns to perform the obstacle avoidance task, during the drone navigation. Secondly, the [Udacity's projects](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd0013) dataset, which contains 70K images, captured from a camera mounted on a car with images captured left, right, and center view while driving. We used this dataset for learning the steering task to our model.
 
-
+<img src="https://github.com/aidins1/TinyDronet/blob/main/dataset.png" width=30% height=30%>
 
 
 # Implementation on GAP8 IoT Edge Device
