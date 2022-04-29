@@ -14,7 +14,7 @@
 # Datasets and Software Simulation Codes
 
 
-# Implementation on GAP8
+# Implementation on GAP8 IoT Edge Device
 
 
 
