@@ -18,7 +18,7 @@ Two datasets are used for training a neural network model which produce proper o
 <img src="https://github.com/aidins1/TinyDronet/blob/main/dataset.png" width=50% height=50%>
 
 
-## Implementation on GAP8 IoT Edge Device
+## Implementation on a Server and GAP8 IoT Edge Device
 For implementation of autonomous drone navigation application, we used CrazyFlie 2.0, an open source flying development instrument with AI-Deck extension board. The AI-Deck features a low power camera, Wi-Fi module and ultra low power RISC-V processor GAP8 which lets CrazyFlie to do on-board processing. Gray scale images captured from the drone camera is resized to 200x200 to feed to NN models either on-board or on the cloud.
 
 
