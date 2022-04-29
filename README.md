@@ -11,4 +11,4 @@
 
 
 # Power Measurment
-<img src="https://github.com/aidins1/TinyDronet/blob/main/Drawing4.jpg" width=50% height=50%>
+<img src="https://github.com/aidins1/TinyDronet/blob/main/Measurement.jpg" width=50% height=50%>
