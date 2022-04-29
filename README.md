@@ -14,8 +14,6 @@
 # Datasets and Software Simulation Codes
 Two datasets are used for training a neural network model which produce proper output for obstacle avoidance and steering task based on raw gray scale image inputs from drone camera. First [Dronet: Learning to fly by drivin](https://pages.github.com/) dataset, which is collection of nearly 32K images which are annotated with collision/no-collision labels. We used this dataset to train a model which learns to perform the obstacle avoidance task, during the drone navigation. Secondly, the [Udacity's projects](https://pages.github.com/) dataset, which contains 70K images, captured from a camera mounted on a car with images captured left, right, and center view while driving. We used this dataset for learning the steering task to our model.
 
-<img src="https://github.com/aidins1/TinyDronet/blob/main/Crazyflie.jpg" width=50% height=50%>
-<img src="https://github.com/aidins1/TinyDronet/blob/main/AI-Deck.jpg" width=50% height=50%>
 
 
 
@@ -24,6 +22,11 @@ For implementation of autonomous drone navigation application, we used CrazyFlie
 
 
 
+<img src="https://github.com/aidins1/TinyDronet/blob/main/Crazyflie.jpg" width=40% height=40%>
+
+
+
+<img src="https://github.com/aidins1/TinyDronet/blob/main/AI-Deck.jpg" width=40% height=40%>
 
 
 
