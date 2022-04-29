@@ -6,7 +6,7 @@
 
 
 # UMBC Energy Efficient High Performance Computing Lab
-### Faculty: Tinoosh Mohsenin tinoosh@umbc.edu
+### Supervisior: Dr Tinoosh Mohsenin tinoosh@umbc.edu
 ### Author: Aidin Shiri aidin.shiri@umbc.edu
 
 
