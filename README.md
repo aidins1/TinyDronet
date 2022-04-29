@@ -26,7 +26,7 @@ For implementation of autonomous drone navigation application, we used CrazyFlie
 <img src="https://github.com/aidins1/TinyDronet/blob/main/Crazyflie.jpg" width=30% height=30%>  <img src="https://github.com/aidins1/TinyDronet/blob/main/AI-Deck.jpg" width=30% height=30%>
 
 
-
+In general, the neural network inference model of the drone perception can be performed by streaming image to a server and the inference output back to the drone, or by implementing the model on the edge. For this purpose, we implemented our model on a laptop as server implementation and GAP8 IoT device. 
 
 
 
