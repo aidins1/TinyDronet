@@ -36,7 +36,7 @@ In general, the neural network inference model of the drone perception can be pe
 
 
 ## Power Measurment
-To evaluate the energy efficiency and power consumption of our model on an edge devices, we implement it on  GAP8 IoT processor. GAP8 processor has a tiny fabric controller with 8 cluster cores for parallelization, which can be run at maximum frequency of 150MHz. We configured the device to achieve maximum performance and measured the models implementation results. Figure below shows the setup for measuring power consumption of GAP8 when the neural network model is running on-board. We used INA 219 module along with an Arduino Nano board  to monitor power consumption rate. 
+To evaluate the energy efficiency and power consumption of our model on an edge devices, we implement it on  GAP8 IoT processor. GAP8 processor has a tiny fabric controller with 8 cluster cores for parallelization, which can be run at maximum frequency of 150MHz. We configured the device to achieve maximum performance and measured the models implementation results. Figure below shows the setup for measuring power consumption of GAP8 when the neural network model is running on-board. We used INA 219 module along with an Arduino Nano board  to monitor power consumption rate.. 
 
 
 <img src="https://github.com/aidins1/TinyDronet/blob/main/Measurement.jpg" width=50% height=50%>
